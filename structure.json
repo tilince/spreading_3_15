@@ -35,7 +35,7 @@
                             "attributes": {
                                 "create_time": 1689427038219,
                                 "update_time": 1689436802894,
-                                "status": "Draft"
+                                "status": "Preview"
                             }
                         },
                         {
@@ -60,7 +60,8 @@
                             "attributes": {
                                 "create_time": 1689427064119,
                                 "update_time": 1689436830646,
-                                "status": "Draft"
+                                "preview_time": 1689780873117,
+                                "status": "Preview"
                             }
                         }
                     ]
@@ -75,7 +76,9 @@
                             "attributes": {
                                 "create_time": 1689427068000,
                                 "update_time": 1689436854315,
-                                "status": "Draft"
+                                "publish_time": 1689780973117,
+                                "preview_time": 1689780873117,
+                                "status": "Launched"
                             }
                         }
                     ]
@@ -87,7 +90,8 @@
                     "attributes": {
                         "create_time": 1689583364198,
                         "update_time": 1689583991199,
-                        "status": "Draft"
+                        "publish_time": 1689780973117,
+                        "status": "Launched"
                     }
                 }
             ]
